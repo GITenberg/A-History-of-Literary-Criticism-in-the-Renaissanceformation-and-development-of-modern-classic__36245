@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38161
 description: 'Part 1: Literary criticism in Italy -- part 2: Literary criticism in
   France -- Part 3: Literary criticism in England'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36245#A-History-of-Literary-Criticism-in-the-Renaissanceformation-and-development-of-modern-classic_
 gutenberg_issued: '2011-05-28'
 gutenberg_type: Text
 identifiers:
