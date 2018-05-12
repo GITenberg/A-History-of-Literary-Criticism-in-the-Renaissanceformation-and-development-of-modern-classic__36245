@@ -1,0 +1,29 @@
+_repo: A-History-of-Literary-Criticism-in-the-Renaissanceformation-and-development-of-modern-classic__36245
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36245-h/images/coverdecoration.jpg
+creator:
+  author:
+    agent_name: Spingarn, Joel Elias
+    birthdate: 1875
+    deathdate: 1939
+    gutenberg_agent_id: '38161'
+    url: http://www.gutenberg.org/2009/agents/38161
+description: 'Part 1: Literary criticism in Italy -- part 2: Literary criticism in
+  France -- Part 3: Literary criticism in England'
+gutenberg_issued: '2011-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criticism'
+- !lcsh 'Renaissance'
+- !lcc 'PN'
+title: "A History of Literary Criticism in the Renaissance\r\nWith special reference\
+  \ to the influence of Italy in the formation and development of modern classicism"
+url: http://www.gutenberg.org/ebooks/36245
